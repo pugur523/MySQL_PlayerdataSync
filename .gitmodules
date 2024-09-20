@@ -1,6 +1,6 @@
 [submodule "MySQL_PlayerdataSync-4-Fabric"]
-	path = MySQL_PlayerdataSync-4-Fabric
+	path = Fabric
 	url = https://github.com/pugur523/MySQL_PlayerdataSync-4-Fabric.git
 [submodule "MySQL_PlayerdataSync-4-Paper"]
-	path = MySQL_PlayerdataSync-4-Paper
+	path = Paper
 	url = https://github.com/pugur523/MySQL_PlayerdataSync-4-Paper.git
