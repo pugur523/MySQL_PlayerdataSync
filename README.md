@@ -8,6 +8,7 @@ This might be useful for a proxy based server(velocity, waterfall, bungeecord et
 ## Installation
 ### Manual installation (recommended)
 > **You have** to setup a **MySQL Database and MySQL User** for work with the database.
+
 Download the latest version [Fabric](https://github.com/pugur523/MySQL_PlayerdataSync-4-Fabric/releases/latest)/[Paper](https://github.com/pugur523/MySQL_PlayerdataSync-4-Paper/releases/latest) then you can place the jar in the server's mods/plugins directory.
 First time you reboot the server, you can find the config file in `config/playerdata_sync.conf` so stop the server and write your database url, user, and user password in the config file.(for more information about configuration, read configuration section below)
 Then boot the server, setup is done.
